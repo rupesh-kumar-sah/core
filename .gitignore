@@ -1,10 +1,9 @@
 node_modules/
 dist/
 examples/*/dist/
-.env
-.env.local
 *.tsbuildinfo
 coverage/
 docs/api/
 .DS_Store
 fix.md
+config.bat
